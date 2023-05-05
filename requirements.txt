@@ -1,7 +1,7 @@
 numpy
 pandas
-streamlit
+streamlit==1.15.0
 scikit-learn
 pip
 matplotlib==3.5.2
-==1.15.0
+
